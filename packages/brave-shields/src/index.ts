@@ -1,4 +1,4 @@
-﻿/**
+/**
  * @yolo-web/brave-shields
  *
  * Pure Bun TypeScript implementation of:
